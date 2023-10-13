@@ -13,4 +13,4 @@ My research interests now are video diffusion model and personalized video gener
 
 {% include_relative _includes/publications.md %}
 
-<!-- {% include_relative _includes/services.md %} -->
+{% include_relative _includes/services.md %}
