@@ -1,0 +1,86 @@
+main:
+
+  - title: "Show-1: Marrying Pixel and Latent Diffusion Models for Text-to-Video Generation"
+    authors: <strong>JDavid Junhao Zhang</strong>, Jay Zhangjie Wu, Jia-Wei Liu, Rui Zhao, Lingmin Ran, Yuchao Gu, Difei Gao, Mike Zheng Shou
+    conference_short: arXiv
+    conference: arXiv, 2023.
+    page: https://showlab.github.io/Show-1/
+    arxiv: https://arxiv.org/abs/2309.15818
+    code: https://github.com/showlab/Show-1
+    github_stars: showlab/Show-1
+    image: ./assets/teaser/show1.gif
+
+  - title: "MotionDirector: Motion Customization of Text-to-Video Diffusion Models"
+    authors: Rui Zhao, Yuchao Gu, Jay Zhangjie Wu,  <strong>David Junhao Zhang</strong>, Jiawei Liu, Weijia Wu, Jussi Keppo, Mike Zheng Shou
+    conference_short: arxiv
+    conference: arxiv, 2023.
+    page: https://showlab.github.io/MotionDirector/
+    arxiv: https://arxiv.org/abs/2310.08465
+    code: https://github.com/showlab/MotionDirector
+    github_stars: showlab/MotionDirector
+    image: ./assets/teaser/001.gif
+
+  - title: "Dataset Condensation via Generative Model"
+    authors: <strong>David Junhao Zhang</strong>, Heng Wang, Chuhui Xue, Rui Yan, Wenqing Zhang, Song Bai, Mike Zheng Shou
+    conference_short: arxiv
+    conference: arxiv, 2023.
+    arxiv: https://arxiv.org/abs/2309.07698
+    image: ./assets/teaser/data condense.jpg
+
+  - title: "Free-ATM: Exploring Unsupervised Learning on Diffusion-Generated Images with Free Attention Masks"
+    authors: <strong>David Junhao Zhang</strong>, Mutian Xu, Chuhui Xue, Wenqing Zhang, Xiaoguang Han, Song Bai, Mike Zheng Shou
+    conference_short: arxiv
+    conference: arxiv, 2023.
+    arxiv: https://arxiv.org/abs/2308.06739
+    image: ./assets/teaser/free.jpg
+    
+  - title: "Label-Efficient Online Continual Object Detection in Streaming Video"
+    authors: Jay Zhangjie Wu,  <strong>David Junhao Zhang </strong>, Wynne Hsu, Mengmi Zhang, Mike Zheng Shou
+    conference_short: ICCV
+    conference: IEEE Conference on International Conference on Computer Vision <strong>(ICCV)</strong>, 2023.
+    arxiv: https://arxiv.org/abs/2206.00309
+    code: https://github.com/showlab/Efficient-CLS
+    image: ./assets/teaser/leocod.png
+  
+
+  - title: "MorphMLP: An Efficient MLP-Like Backbone for Spatial-Temporal Representation Learning"
+    authors: <strong>David Junhao Zhang </strong>, Kunchang Li, Yali Wang, Yunpeng Chen, Shashwat Chandra, Yu Qiao, Luoqi Liu, Mike Zheng Shou
+    conference_short: ECCV
+    conference: European Conference on Computer Vision <strong>(ECCV)</strong>, 2022.
+    arxiv: https://arxiv.org/abs/2111.12527
+    code: https://github.com/MTLab/MorphMLP
+    image: ./assets/teaser/morphmlp.jpg
+
+
+  - title: "Dual-AI: Dual-path Actor Interaction Learning for Group Activity Recognition"
+    authors: Mingfei Han*, <strong>David Junhao Zhang* </strong>, Yali Wang, Ruiyan, Lina Yao, Xiaojun Chang and Yu Qiao (* equal contribution)
+    conference_short: CVPR
+    conference: Conference on Computer Vision and Pattern Recognition <strong>(CVPR)</strong>, 2022.
+    arxiv: https://arxiv.org/abs/2204.02148
+    note: Oral Presentation
+    image: ./assets/teaser/dual.jpg
+  
+  - title: "Learning Dynamical Human-Joint Affinity for 3D Pose Estimation in Videos"
+    authors: <strong>Junhao Zhang* </strong>, Yali Wang, Zhipeng Zhou, Tianyu Luan, Zhe Wang, Yu Qiao
+    conference_short: TIP
+    conference: IEEE Transactions on Image Processing<strong>(TIP)</strong>, 20231
+    arxiv: https://arxiv.org/abs/2109.07353
+    image: ./assets/teaser/3dpose.png
+
+
+  - title: "Learning Geometric Disentangled Representation for Complementary Understanding of 3D Object Pointcloud"
+    authors: Mutian Xu*, <strong>Junhao Zhang* </strong>, Zhipeng Zhou, Mingye Xu, Xiaojuan Qi and Yu Qiao (* equal contribution)
+    conference_short: AAAI
+    conference: The AAAI Conference on Artificial Intelligence <strong>(AAAI)</strong>, 2021.
+    arxiv: https://arxiv.org/abs/2012.10921
+    code: https://github.com/mutianxu/GDANet
+    image: ./assets/teaser/obpoint.png
+  
+  - title: "PC-HMR: Pose Calibration for Human Mesh Recovery"
+    authors: Tianyu Luan*, Yali Wang*, <strong>Junhao Zhang* </strong>, Zhe Wang, Zhipeng Zhou and Yu Qiao (* equal contribution)
+    conference_short: AAAI
+    conference: The AAAI Conference on Artificial Intelligence <strong>(AAAI)</strong>, 2021.
+    arxiv: https://arxiv.org/abs/2103.09009
+    image: ./assets/teaser/mesh.png
+   
+
