@@ -1,7 +1,7 @@
 main:
 
   - title: "VideoSwap: Customized Video Subject Swapping with Interactive Semantic Point Correspondence"
-    authors: Yuchao Gu, Yipin Zhou, Bichen Wu, Licheng Yu, Jia-Wei Liu, Rui Zhao, <strong>Jay Zhangjie Wu</strong>, David Junhao Zhang, Mike Zheng Shou, Kevin Tang
+    authors: Yuchao Gu, Yipin Zhou, Bichen Wu, Licheng Yu, Jia-Wei Liu, Rui Zhao, Jay Zhangjie Wu,  <strong>David Junhao Zhang</strong>, Mike Zheng Shou, Kevin Tang
     conference_short: arXiv
     conference: arXiv, 2023.
     page: https://videoswap.github.io/
