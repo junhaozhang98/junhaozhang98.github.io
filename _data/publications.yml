@@ -1,5 +1,18 @@
 main:
 
+  - title: "VideoSwap: Customized Video Subject Swapping with Interactive Semantic Point Correspondence"
+    authors: Yuchao Gu, Yipin Zhou, Bichen Wu, Licheng Yu, Jia-Wei Liu, Rui Zhao, <strong>Jay Zhangjie Wu</strong>, David Junhao Zhang, Mike Zheng Shou, Kevin Tang
+    conference_short: arXiv
+    conference: arXiv, 2023.
+    page: https://videoswap.github.io/
+    arxiv: https://arxiv.org/abs/2312.02087
+    code: https://github.com/showlab/VideoSwap
+    github_stars: showlab/VideoSwap
+    image: ./assets/teaser/videoswap.gif
+
+
+
+
   - title: "Show-1: Marrying Pixel and Latent Diffusion Models for Text-to-Video Generation"
     authors: <strong>David Junhao Zhang</strong>, Jay Zhangjie Wu, Jia-Wei Liu, Rui Zhao, Lingmin Ran, Yuchao Gu, Difei Gao, Mike Zheng Shou
     conference_short: arXiv
