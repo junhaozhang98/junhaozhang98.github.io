@@ -3,7 +3,7 @@ main:
   - title: "VideoSwap: Customized Video Subject Swapping with Interactive Semantic Point Correspondence"
     authors: Yuchao Gu, Yipin Zhou, Bichen Wu, Licheng Yu, Jia-Wei Liu, Rui Zhao, Jay Zhangjie Wu,  <strong>David Junhao Zhang</strong>, Mike Zheng Shou, Kevin Tang
     conference_short: CVPR
-    conference: Conference on Computer Vision and Pattern Recognition <strong>(CVPR)</strong>, 2022.
+    conference: Conference on Computer Vision and Pattern Recognition <strong>(CVPR)</strong>, 2024.
     page: https://videoswap.github.io/
     arxiv: https://arxiv.org/abs/2312.02087
     code: https://github.com/showlab/VideoSwap
@@ -26,7 +26,10 @@ main:
   - title: "MotionDirector: Motion Customization of Text-to-Video Diffusion Models"
     authors: Rui Zhao, Yuchao Gu, Jay Zhangjie Wu,  < strong>David Junhao Zhang</strong>, Jiawei Liu, Weijia Wu, Jussi Keppo, Mike Zheng Shou
     conference_short: ECCV
-    conference: European Conference on Computer Vision <strong>(ECCV)</strong>, 2022.
+    conference: <p>
+    “European Conference on Computer Vision <strong>(ECCV)</strong>, 2022.” 
+    <span style="color: red;">oral presentation</span>
+    </p>
     page: https://showlab.github.io/MotionDirector/
     arxiv: https://arxiv.org/abs/2310.08465
     note: Oral Presentation
