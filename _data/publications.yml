@@ -1,5 +1,19 @@
 main:
 
+  
+  - title: "MoonShot: Towards Controllable Video Generation and Editing with Motion-Aware Multimodal Conditions"
+    authors:  <strong>David Junhao Zhang</strong>, Dongxu Li, Hung Le, Mike Zheng Shou, Caiming Xiong, Doyen Sahoo
+    conference_short: IJCV
+    conference: International Journal of Computer Vision
+    page: https://junhaozhang98.github.io/Moonshot-IJCV/
+    arxiv: https://arxiv.org/abs/2401.01827
+    image: ./assets/teaser/car3.gif
+
+
+
+
+  
+  
   - title: "VideoSwap: Customized Video Subject Swapping with Interactive Semantic Point Correspondence"
     authors: Yuchao Gu, Yipin Zhou, Bichen Wu, Licheng Yu, Jia-Wei Liu, Rui Zhao, Jay Zhangjie Wu,  <strong>David Junhao Zhang</strong>, Mike Zheng Shou, Kevin Tang
     conference_short: CVPR
@@ -33,6 +47,14 @@ main:
     code: "https://github.com/showlab/MotionDirector"
     github_stars: "showlab/MotionDirector"
     image: "./assets/teaser/001.gif"
+
+  - title: "Free-atm: Exploring Unsupervised Learning on Diffusion-generated Images with Free Attention Masks"
+    authors: <strong>David Junhao Zhang</strong>, Mutian Xu, Jay Zhangjie Wu, Chuhui Xue, Wenqing Zhang, Xiaoguang Han, Song Bai, Mike Zheng Shou
+    conference_short: ECCV
+    conference: "European Conference on Computer Vision (ECCV), 2024"
+    arxiv: https://arxiv.org/abs/2308.06739
+    image: ./assets/teaser/free.jpg
+    
 
 
   - title: "Dataset Condensation via Generative Model"
