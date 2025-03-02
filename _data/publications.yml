@@ -143,7 +143,7 @@ main:
   - title: "Learning Dynamical Human-Joint Affinity for 3D Pose Estimation in Videos"
     authors: <strong>Junhao Zhang* </strong>, Yali Wang, Zhipeng Zhou, Tianyu Luan, Zhe Wang, Yu Qiao
     conference_short: TIP
-    conference: IEEE Transactions on Image Processing<strong>(TIP)</strong>, 20231
+    conference: IEEE Transactions on Image Processing<strong>(TIP)</strong>, 2023
     arxiv: https://arxiv.org/abs/2109.07353
     image: ./assets/teaser/3dpose.png
 
