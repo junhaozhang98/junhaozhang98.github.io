@@ -24,12 +24,9 @@ main:
     image: ./assets/teaser/show1.gif
 
   - title: "MotionDirector: Motion Customization of Text-to-Video Diffusion Models"
-    authors: Rui Zhao, Yuchao Gu, Jay Zhangjie Wu,  < strong>David Junhao Zhang</strong>, Jiawei Liu, Weijia Wu, Jussi Keppo, Mike Zheng Shou
+    authors: Rui Zhao, Yuchao Gu, Jay Zhangjie Wu,  <strong>David Junhao Zhang</strong>, Jiawei Liu, Weijia Wu, Jussi Keppo, Mike Zheng Shou
     conference_short: ECCV
-    conference: <p>
-    “European Conference on Computer Vision <strong>(ECCV)</strong>, 2022.” 
-    <span style="color: red;">oral presentation</span>
-    </p>
+    conference: European Conference on Computer Vision (ECCV), 2024 (<span style=\"color: red;\">oral presentation</span>)
     page: https://showlab.github.io/MotionDirector/
     arxiv: https://arxiv.org/abs/2310.08465
     note: Oral Presentation
