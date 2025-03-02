@@ -1,5 +1,40 @@
 main:
 
+
+
+  - title: "ReCapture: Generative Video Camera Controls for User-Provided Videos using Masked Video Fine-Tuning"
+    authors: <strong>David Junhao Zhang</strong>, Roni Paiss, Shiran Zada, Nikhil Karnad, David E. Jacobs, Yael Pritch, Inbar Mosseri, Mike Zheng Shou, Neal Wadhwa, Nataniel Ruiz
+    conference_short: CVPR
+    conference: IEEE Conference on Computer Vision and Pattern Recognition <strong>(CVPR)</strong>, 2025.
+    page: https://generative-video-camera-controls.github.io/
+    arxiv: https://arxiv.org/abs/2411.05003
+    image: ./assets/teaser/recapture2.gif
+
+
+  - title: "Show-o: One Single Transformer to Unify Multimodal Understanding and Generation"
+    authors: Jinheng Xie*, Weijia Mao*, Zechen Bai*, <strong>David Junhao Zhang*</strong>,, Weihao Wang, Kevin Qinghong Lin, Yuchao Gu, Zhijie Chen, Zhenheng Yang, Mike Zheng Shou (* equal contribution)
+    conference_short: ICLR
+    conference: "International Conference on Learning Representations <strong>(ICLR)</strong>, 2025"
+    page: https://showlab.github.io/Show-o/
+    arxiv: https://arxiv.org/pdf/2408.12528
+    code: https://github.com/showlab/Show-o
+    github_stars: showlab/Show-o
+    image: ./assets/img/show-o.jpg
+
+
+  
+  
+  
+  - title: "MixEval-X: Any-to-Any Evaluations from Real-World Data Mixtures"
+    authors: Rui Zhao, Hangjie Yuan, Yujie Wei, Shiwei Zhang, Yuchao Gu, Lingmin Ran, Xiang Wang, Jay Wu, <strong>David Junhao Zhang</strong>, Yingya Zhang, Mike Zheng Shou
+    conference_short: ICLR
+    conference: "International Conference on Learning Representations <strong>(ICLR)</strong>, 2025 (<span style=\"color: red;\">highlight</span>)"
+    page: https://mixeval-x.github.io/
+    arxiv: https://arxiv.org/abs/2410.13754
+    code: https://github.com/JinjieNi/MixEval-X
+    image: ./assets/img/mixval.jpg
+
+
   - title: "EvolveDirector: Approaching Advanced Text-to-Image Generation with Large Vision-Language Models"
     authors: Rui Zhao, Hangjie Yuan, Yujie Wei, Shiwei Zhang, Yuchao Gu, Lingmin Ran, Xiang Wang, Jay Wu, <strong>David Junhao Zhang</strong>, Yingya Zhang, Mike Zheng Shou
     conference_short: NeurIPS
@@ -30,7 +65,7 @@ main:
   - title: "VideoSwap: Customized Video Subject Swapping with Interactive Semantic Point Correspondence"
     authors: Yuchao Gu, Yipin Zhou, Bichen Wu, Licheng Yu, Jia-Wei Liu, Rui Zhao, Jay Zhangjie Wu,  <strong>David Junhao Zhang</strong>, Mike Zheng Shou, Kevin Tang
     conference_short: CVPR
-    conference: Conference on Computer Vision and Pattern Recognition <strong>(CVPR)</strong>, 2024.
+    conference: IEEE Conference on Computer Vision and Pattern Recognition <strong>(CVPR)</strong>, 2024.
     page: https://videoswap.github.io/
     arxiv: https://arxiv.org/abs/2312.02087
     code: https://github.com/showlab/VideoSwap
