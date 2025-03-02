@@ -12,7 +12,7 @@ main:
 
 
   - title: "Show-o: One Single Transformer to Unify Multimodal Understanding and Generation"
-    authors: Jinheng Xie*, Weijia Mao*, Zechen Bai*, <strong>David Junhao Zhang*</strong>,, Weihao Wang, Kevin Qinghong Lin, Yuchao Gu, Zhijie Chen, Zhenheng Yang, Mike Zheng Shou (* equal contribution)
+    authors: Jinheng Xie*, Weijia Mao*, Zechen Bai*, <strong>David Junhao Zhang*</strong>, Weihao Wang, Kevin Qinghong Lin, Yuchao Gu, Zhijie Chen, Zhenheng Yang, Mike Zheng Shou (* equal contribution)
     conference_short: ICLR
     conference: "International Conference on Learning Representations <strong>(ICLR)</strong>, 2025"
     page: https://showlab.github.io/Show-o/
