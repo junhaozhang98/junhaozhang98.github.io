@@ -8,7 +8,7 @@ I am Junhao Zhang, a final year Ph.D. student at [Show Lab](https://sites.google
 
 
 
-My research interests now are video genrative model and multimodal LLM , past synthetic data pretraining, network architecture and 3D point cloud processing.
+My research interests now are video generative model and multimodal LLM , past synthetic data pretraining, network architecture and 3D point cloud processing.
 
 {% include_relative _includes/news.md %}
 
